@@ -1,0 +1,24 @@
+{
+  "name": "BookWorm - Reading Tracker & Book Recommendations",
+  "short_name": "BookWorm",
+  "description": "Track your reading, discover books, write reviews, and get personalized recommendations.",
+  "start_url": "/login",
+  "display": "standalone",
+  "background_color": "#f8f5f2",
+  "theme_color": "#6b4eff",
+  "orientation": "portrait",
+  "categories": ["books", "education", "productivity"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
